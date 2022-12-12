@@ -1,6 +1,7 @@
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 # Kalvium Lab | JS | Kalvium-CONTACTS
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.nikjos.in/open?repo=nikiljos/lab-promises-1-CSK101-M3-L112)
 
 We have learned promise works in JavaScript. Now lets work with our promise lab, applying all of the concepts we have just learned.
 
